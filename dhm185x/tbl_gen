@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+values = [ ]
+for i in range(32):
+	outval = ((i // 10) << 4) | (i % 10)
+	values.append(outval)
+print(", ".join(f"0x{x:02x}" for x in values)
+
+	

@@ -1,0 +1,16 @@
+#!/bin/bash
+#
+#
+
+if [ "$1" == "16" ]; then
+	PART="NMC27C16B@DIP24"
+elif [ "$1" == "32" ]; then
+	PART="NMC27C32B@DIP24"
+else
+	echo "$0 [16|32]"
+	echo "specifies if the 27C16 or 27C32 is being programmed."
+	exit 1
+fi
+rm -f readout_firmware.bin
+minipro -p "$PART"  -r readout_firmware.bin
+hexdump -C readout_firmware.bin
