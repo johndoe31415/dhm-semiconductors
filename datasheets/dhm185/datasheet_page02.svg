@@ -8,7 +8,7 @@
    version="1.1"
    id="svg830"
    sodipodi:docname="datasheet_page02.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,14 +24,16 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="197.75"
-     inkscape:cy="760.5"
+     inkscape:cx="145.25"
+     inkscape:cy="521.25"
      inkscape:window-width="3840"
-     inkscape:window-height="2126"
-     inkscape:window-x="3840"
-     inkscape:window-y="0"
+     inkscape:window-height="2075"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs827">
     <marker
@@ -192,7 +194,7 @@
          id="tspan3103-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.0880786"
          x="19.420403"
-         y="273.50583">2022 Nov 17</tspan></text>
+         y="273.50583">2023 Nov 9</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52312px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0880786"
@@ -250,7 +252,7 @@
            id="tspan3103-5-9-7"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:end;text-anchor:end;stroke-width:0.124898"
            x="187.82381"
-           y="36.568634">DHM185, DHM185X</tspan></text>
+           y="36.568634">DHM185, DHM185X, DHM185G</tspan></text>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
